@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {font-family: 'Lobster', cursive;
+
+}
+
+
+#gogi {
+	position: relative;
+	background-color: #DFCCC9;
+	height: 220px;
+}
+
+
+#logo {
+	position: fixed;
+	width: 450px;
+	z-index: 101;
+	top: 40px;
+	left: 760px;
+	padding-bottom: 30px;
+}
+
+
+#fullstack {
+	position: absolute;
+	z-index: 102;
+	top: 80px;
+	left: 220px;
+}
+/*head part until here*/
+
+
+#bardiv {
+	position: relative;
+	background-color: #CF5353;
+	height: 60px;
+	font-size: 130%;
+	font-style: bold;
+	padding-top: 5px;
+	padding-bottom: 25px;
+}
+
+#buttons {
+	color: white;
+}
+
+
+li {
+	position: relative;
+	display: block;
+	float: left;
+	padding: 10px;
+	left: 780px;
+}
+/*navigation bar part until here*/
+
+
+#website {
+	position: relative;
+	margin: 0px 70px;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 80px;
+	font-size: 200%;
+}
+/*"This is my Website" part until here*/
+
+
+#firstDiv { /*wide picture*/
+	position: relative;
+	top: 0px ;
+	height: 350px;
+	margin-left: 70px;
+	margin-right: 70px;	
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+#samsung {
+	width: 100%;
+	height: 100%;
+}
+
+#lijeviDiv {
+	position: relative;
+	margin: 0px 670px 0px 70px;
+	text-align: center;
+} 
+
+
+#police {
+	height: 100%;
+	width: 100%;
+}
+
+
+#desniDiv {
+	position: absolute;
+	margin: -368px 70px 0px 675px;
+	text-align: center;	
+}
+
+#scooter {
+	height: 100%;
+	width: 100%;
+}
+/*pic parts until here*/
+
+#logobottom {
+	position: absolute;
+	width: 320px;
+	height: 100px;
+	top: 30px;
+	left: 470px;	
+}
+
+
+#foot {
+	position: relative;
+	background-color: #E3C4D1;
+	height: 200px;
+	font-size: 120%;
+}
+
+
+#copyright {
+	position: absolute;
+	top: 120px;
+	left: 540px;
+}
+
